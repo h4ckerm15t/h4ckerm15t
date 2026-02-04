@@ -1,15 +1,12 @@
-# Chileshe Jake Muliokela (m15t)
-Penetration Tester & SOC Analyst
+# Penetration Tester | SOC Analyst | Network Engineer | Bug Bounty Hunter
 
 [![Follow on GitHub](https://img.shields.io/badge/-Follow%20me-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerm15t)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-24292e?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/1541747/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-24292e?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/m15t/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-24292e?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/chileshe-jake-muliokela-61361b314/)
 
----
-
 ## About me
-Practical cybersecurity professional (SOC Analyst & Penetration Tester). I practice on platforms like **Hack The Box**, **TryHackMe**, and **Hackviser**. I build CTF writeups, web challenges, and small tools and scripts to achieve certain task when either enumerating or threat hunting.
+Practical cybersecurity professional (SOC Analyst & Penetration Tester). I practice on platforms like **Hack The Box**. I build CTF writeups, web challenges, and small tools and scripts to achieve certain task when either enumerating or threat hunting.
 I majored in a Bachelors Degree in Network Engineering and my final year project was a full SIEM for the company ZedBounty.
 
 Hobbies
@@ -21,7 +18,6 @@ Hobbies
   <img src="https://img.shields.io/badge/Chess.com-Jake CM-769656?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess" />
 </a>
 
----
 
 ## Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -33,14 +29,14 @@ Hobbies
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
 ## Skills
-#### Ethical Hacking
+#### Red Team
 Source Code Review · Web Applications Attacks · Reversing · Windows Exploitation · Active Directory Exploitation · Blockchain Exploitation · AI Bypass/Exploitation
 Linux Fundamentals · Web Fundamentals · Network Security · Security Tools · Cryptography Fundamentals · OSINT Techniques · Vulnerability Analysis · Web Application Security · Ethical Hacking · Windows Fundamentals · Network Fundamentals · Penetration Testing · Privilege Escalation · System Auditing · Social Engineering · OWASP Top 10
 
-#### SOC Skills
+#### Blue Team
 OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis · Shellcodes · GRC · Phishing · WiFi Attacks · Web Timing Attacks · Websockets · Certificate Mismanagement · Active Directory · Microsoft Azure · Prompt Injection · Game Hacking · Communication Protocols
 
----
+
 
 ## Certifications
 
@@ -51,17 +47,7 @@ OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis
   <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg?raw=true" width="350" alt="HTB FullHouse ProLab Certification" />
 </a>
 
----
-## Operating Systems & Tools 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-003B57?style=for-the-badge&logo=metasploit&logoColor=white)](#)
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
-
----
 
 ## Featured Sections 
 <table>
@@ -72,20 +58,8 @@ OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis
   </tr>
 </table>
 
----
-## Professional Experience
-### StarLabs Limited – Lusaka, Zambia 
 
-SOC Analyst (Jan 2025 – Present) 
-- Triaged 120+ daily SIEM alerts, improving incident response time by 30%. (Splunk, Rapid7). 
-- Correlated logs across systems to generate threat intelligence reports. 
 
-Penetration Tester (Mar 2025 – Present) 
-- Performed internal and external penetration tests (black/white-box). 
-- Identified 5+ critical vulns (e.g. 403 Bypass, DOS, Valuable endpoint dumping) in production apps prevented pre-deployment breach. 
-- Collaborated with developers to validate findings and implement mitigations. 
-
----
 
 ## Wanna Connect?
 Every button icon is clickable and redirects you to my personal profiles that you can use to reach me. Chess, gaming, hacking, programming or security operations what ever it is I am always down to interact
