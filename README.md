@@ -41,10 +41,13 @@ OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis
 ## Certifications
 
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/CAPT.JPEG">
-  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/CAPT.JPEG?raw=true" width="350" alt="Hackviser CAPT Certification" />
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/CAPT.JPEG?raw=true" width="359" alt="Hackviser CAPT Certification" />
+</a>
+<a href="https://github.com/h4ckerm15t/Certifications/blob/main/eJPT%20Certification.png">
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/eJPT%20Certification.png?raw=true" width="300" alt="INE eJPT Certification" />
 </a>
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg">
-  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg?raw=true" width="350" alt="HTB FullHouse ProLab Certification" />
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg?raw=true" width="339" alt="HTB FullHouse ProLab Certification" />
 </a>
 
 
