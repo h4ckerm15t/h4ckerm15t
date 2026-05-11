@@ -46,6 +46,12 @@ OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/eJPT%20Certification.png">
   <img src="https://github.com/h4ckerm15t/Certifications/blob/main/eJPT%20Certification.png?raw=true" width="300" alt="INE eJPT Certification" />
 </a>
+<a href="https://github.com/h4ckerm15t/Certifications/blob/main/Zephyr%20Pro%20Lab%20Certification.png">
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Zephyr%20Pro%20Lab%20Certification.png?raw=true" width="359" alt="Zephyr Prolabs Certification" />
+</a>
+<a href="https://github.com/h4ckerm15t/Certifications/blob/main/Dante%20Pro%20Lab%20Certification.png">
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Dante%20Pro%20Lab%20Certification.png?raw=true" width="359" alt="Dante Prolabs Certification" />
+</a>
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg">
   <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Full%20House.jpg?raw=true" width="339" alt="HTB FullHouse ProLab Certification" />
 </a>
