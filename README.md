@@ -49,6 +49,9 @@ OPSEC · Log Analysis · Atomic Red Team · XXE · Sandboxes · AWS Log Analysis
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/Zephyr%20Pro%20Lab%20Certification.png">
   <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Zephyr%20Pro%20Lab%20Certification.png?raw=true" width="359" alt="Zephyr Prolabs Certification" />
 </a>
+<a href="https://github.com/h4ckerm15t/Certifications/blob/main/Offshore%20Pro%20Lab%20Certification.png">
+  <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Offshore%20Pro%20Lab%20Certification.png?raw=true" width="359" alt="Zephyr Prolabs Certification" />
+</a>
 <a href="https://github.com/h4ckerm15t/Certifications/blob/main/Dante%20Pro%20Lab%20Certification.png">
   <img src="https://github.com/h4ckerm15t/Certifications/blob/main/Dante%20Pro%20Lab%20Certification.png?raw=true" width="359" alt="Dante Prolabs Certification" />
 </a>
